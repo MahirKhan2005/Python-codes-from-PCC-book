@@ -1,0 +1,22 @@
+The first edition of this book was published in 2012, during a time when open source
+    data analysis libraries for Python, especially pandas, were very new and developing
+    rapidly. When the time came to write the second edition in 2016 and 2017, I needed
+    to update the book not only for Python 3.6 (the first edition used Python 2.7) but also
+    for the many changes in pandas that had occurred over the previous five years. Now
+    in 2022, there are fewer Python language changes (we are now at Python 3.10, with
+    3.11 coming out at the end of 2022), but pandas has continued to evolve.
+    In this third edition, my goal is to bring the content up to date with current versions
+    of Python, NumPy, pandas, and other projects, while also remaining relatively con
+    servative about discussing newer Python projects that have appeared in the last few
+    years. Since this book has become an important resource for many university courses
+    and working professionals, I will try to avoid topics that are at risk of falling out of
+    date within a year or two. That way paper copies won’t be too difficult to follow in
+    2023 or 2024 or beyond.
+    A new feature of the third edition is the open access online version hosted on my
+    website at 
+    owners of the print and digital editions. I intend to keep the content reasonably up to
+    date there, so if you own the paper book and run into something that doesn’t work
+    properly, you should check there for the latest content changes.
+    Conventions Used in This Book
+    The following typographical conventions are used in this book:
+    Indicates new terms, URLs, email addresses, filenames, and file extensions.

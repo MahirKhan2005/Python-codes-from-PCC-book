@@ -1,0 +1,6 @@
+In Python you can ask for user input 
+In Python you can use conditional statements
+In Python you can use loops
+In Python you can create lists, tuples, sets, dictionaries
+In Python you can create real world objects through classes
+In Python you can work with files
